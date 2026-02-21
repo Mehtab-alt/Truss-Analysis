@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green.svg)
 
-Truss Analysis in Civil Benchis a "Glass-Box" structural analysis software built with Python. It utilizes the Direct Stiffness Method (Finite Element Method) to solve 2D structural frames. Designed for civil engineering students and educators, it not only provides the answers but reveals the underlying matrices and calculations.
+Truss Analysis in Civil Bench is a structural analysis software built with Python. It utilizes the Direct Stiffness Method (Finite Element Method) to solve 2D structural frames. Designed for civil engineering students and educators, it not only provides the answers but reveals the underlying matrices and calculations.
 
   <img src="SS.png" alt="TrussAnalysis" width="100%">
   <img src="SS1.png" alt="TrussAnalysis" width="100%">
